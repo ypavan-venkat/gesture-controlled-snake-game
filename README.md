@@ -31,3 +31,4 @@ Fingers	Direction
 2	Down
 3	Right
 4	Left
+
